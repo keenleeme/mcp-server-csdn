@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="20a36f76-b7ff-4a29-b4f3-e80a957f5f20" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
+        <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -39,9 +42,9 @@
       </MavenGeneralSettings>
     </option>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="38Hs4CJA073U1Mk06Tq16lWY3yy" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,22 +56,93 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "JUnit.APITest.testSaveArticle.executor": "Debug",
+    "JUnit.APITest.test_md2html.executor": "Run",
+    "JUnit.APITest.test_saveArticle.executor": "Debug",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "mcp-csdn-init-template",
     "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/chromeDownload/mcp-server-csdn-master",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Global Libraries",
-    "project.structure.proportion": "0.0",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "MavenSettings",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.McpServerCsdnApplication">
+    <configuration name="APITest.testSaveArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mcp-server-csdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xpeanut.mcp.server.csdn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.xpeanut.mcp.server.csdn.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.xpeanut.mcp.server.csdn.test.APITest" />
+      <option name="METHOD_NAME" value="testSaveArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITest.test_md2html" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mcp-server-csdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xpeanut.mcp.server.csdn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.xpeanut.mcp.server.csdn.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.xpeanut.mcp.server.csdn.test.APITest" />
+      <option name="METHOD_NAME" value="test_md2html" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="APITest.test_saveArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="mcp-server-csdn" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.xpeanut.mcp.server.csdn.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.xpeanut.mcp.server.csdn.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.xpeanut.mcp.server.csdn.test.APITest" />
+      <option name="METHOD_NAME" value="test_saveArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="McpServerCsdnApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="mcp-server-csdn" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.xpeanut.mcp.server.csdn.McpServerCsdnApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.APITest.test_saveArticle" />
+        <item itemvalue="JUnit.APITest.test_md2html" />
+        <item itemvalue="JUnit.APITest.testSaveArticle" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -78,6 +152,7 @@
       <option name="presentableId" value="Default" />
       <updated>1768467637262</updated>
       <workItem from="1768467638279" duration="1325000" />
+      <workItem from="1768476828296" duration="9924000" />
     </task>
     <servers />
   </component>
@@ -97,5 +172,21 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/xpeanut/mcp/server/csdn/test/APITest.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/cn/xpeanut/mcp/server/csdn/test/APITest.java</url>
+          <line>90</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
